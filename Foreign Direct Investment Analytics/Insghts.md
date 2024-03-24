@@ -1,9 +1,7 @@
 # Foreign Direct Investment Analytics
+## Dashboard 1: Overview of FDI Trends and Sector Analysis
 
 ![FDI Dashboards_Page_1](https://github.com/vinit714/Tableau-Dashboards/assets/52816788/748433ed-fc95-416a-9bb9-d5eb9a71e967)
-![FDI Dashboards_Page_2](https://github.com/vinit714/Tableau-Dashboards/assets/52816788/945d1bde-af78-4cd6-bee9-f01c868a0271)
-
-## Dashboard 1: Overview of FDI Trends and Sector Analysis
 
 ### Total Sectors
 
@@ -28,6 +26,8 @@
 - The dashboard includes a filter allowing users to explore insights specific to different sector groups, enabling deeper analysis and comparison.
 
 ## Dashboard 2: Detailed Sector Analysis and Forecast
+
+![FDI Dashboards_Page_2](https://github.com/vinit714/Tableau-Dashboards/assets/52816788/945d1bde-af78-4cd6-bee9-f01c868a0271)
 
 ### Sector-wise FDI Treemap
 
